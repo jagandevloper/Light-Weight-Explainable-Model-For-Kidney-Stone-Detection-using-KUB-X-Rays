@@ -1,6 +1,5 @@
 # Virtual environments
 kirc_env/
-kidney_stone_detection_project/kidney_stone_env/
 venv/
 env/
 .venv/
@@ -11,8 +10,9 @@ __pycache__/
 *$py.class
 *.so
 
-# Model files (large binary files)
+# Model files (large binary - except trained model)
 *.pt
+!src/app/models/best.pt
 *.pth
 *.onnx
 *.weights
@@ -22,10 +22,8 @@ __pycache__/
 logs/
 
 # Uploads and results (user generated)
-uploads/
-static/results/
-flask_app/uploads/
-flask_app/static/results/
+src/app/uploads/
+src/app/static/results/
 
 # IDE
 .idea/
@@ -48,5 +46,9 @@ build/
 # Experiments and outputs (can be regenerated)
 experiments/
 runs/
+
+# Temp files
+*.tmp
+*.temp
 outputs/
 explainability_output/
