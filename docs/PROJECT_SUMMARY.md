@@ -4,7 +4,7 @@
 
 A lightweight, real-time kidney stone detection system powered by **YOLOv8** with multi-level explainability features. Built with Flask for web deployment and optimized for both CPU and GPU inference.
 
-**Repository:** [github.com/jagandevloper/Mini-](https://github.com/jagandevloper/Mini-.git)
+**Repository:** [Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays](https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git)
 
 ---
 
@@ -79,8 +79,8 @@ Mini-/
 
 ```bash
 # Clone repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Install dependencies
 pip install -r requirements.txt

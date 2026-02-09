@@ -389,5 +389,5 @@ curl http://localhost:5000/model_info
 ## 📞 Support
 
 For API issues or questions:
-- Open an issue on [GitHub](https://github.com/jagandevloper/Mini-)
+- Open an issue on [GitHub](https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays)
 - Check the [Installation Guide](INSTALLATION.md)

@@ -1,11 +1,11 @@
-# 🏥 Kidney Stone Detection System
+# 🏥 Light Weight Explainable Model For Kidney Stone Detection using KUB X-Rays
 
 A lightweight, real-time kidney stone detection system powered by YOLOv8 with multi-level explainability for clinical decision support.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
+![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 
 ## ✨ Features
 
@@ -22,7 +22,7 @@ A lightweight, real-time kidney stone detection system powered by YOLOv8 with mu
 ## 📁 Project Structure
 
 ```
-kidney-stone-detection/
+Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays/
 ├── src/
 │   └── app/
 │       ├── main.py           # Flask application
@@ -45,8 +45,8 @@ kidney-stone-detection/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/kidney-stone-detection.git
-cd kidney-stone-detection
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 ```
 
 ### 2. Create Virtual Environment

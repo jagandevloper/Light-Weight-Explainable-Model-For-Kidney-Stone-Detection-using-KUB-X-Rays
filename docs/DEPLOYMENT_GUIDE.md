@@ -20,8 +20,8 @@
 ### Quick Start
 ```bash
 # Clone and navigate
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Install dependencies
 pip install -r requirements.txt
@@ -177,8 +177,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3.10 python3.10-venv python3-pip -y
 
 # Clone repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Create virtual environment
 python3.10 -m venv venv
@@ -349,5 +349,5 @@ docker run -p 5000:5000 kidney-stone-detection
 
 For deployment issues:
 - Check logs in `logs/` directory
-- Open an issue on [GitHub](https://github.com/jagandevloper/Mini-)
+- Open an issue on [GitHub](https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays)
 - Review [Installation Guide](INSTALLATION.md)

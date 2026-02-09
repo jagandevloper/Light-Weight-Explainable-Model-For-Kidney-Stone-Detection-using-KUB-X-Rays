@@ -8,8 +8,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -47,8 +47,8 @@ python run.py
 
 ```bash
 # Clone repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Upgrade pip
 pip install --upgrade pip
@@ -62,8 +62,8 @@ pip install -r requirements.txt
 **Windows:**
 ```powershell
 # Clone repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Create virtual environment
 python -m venv venv
@@ -78,8 +78,8 @@ pip install -r requirements.txt
 **macOS / Linux:**
 ```bash
 # Clone repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Create virtual environment
 python3 -m venv venv
@@ -95,8 +95,8 @@ pip install -r requirements.txt
 
 ```bash
 # Clone repository
-git clone https://github.com/jagandevloper/Mini-.git
-cd Mini-
+git clone https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays.git
+cd Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays
 
 # Create conda environment
 conda create -n kidney-stone python=3.10 -y
@@ -224,7 +224,7 @@ python run.py
 
 ## 🔗 Useful Links
 
-- **Repository:** [github.com/jagandevloper/Mini-](https://github.com/jagandevloper/Mini-)
+- **Repository:** [Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays](https://github.com/jagandevloper/Light-Weight-Explainable-Model-For-Kidney-Stone-Detection-using-KUB-X-Rays)
 - **PyTorch:** [pytorch.org](https://pytorch.org)
 - **Ultralytics:** [docs.ultralytics.com](https://docs.ultralytics.com)
 - **Flask:** [flask.palletsprojects.com](https://flask.palletsprojects.com)
